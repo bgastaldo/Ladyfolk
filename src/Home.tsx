@@ -204,7 +204,9 @@ const Home = (props: HomeProps) => {
                     onMint={onMint}
                   />
                 )}
+                <h1>Mint will stop at 64 left</h1>
               </MintContainer>
+
             </>
           )}
         </Paper>
