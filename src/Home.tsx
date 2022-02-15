@@ -204,7 +204,7 @@ const Home = (props: HomeProps) => {
                     onMint={onMint}
                   />
                 )}
-                <h1>Mint will stop at 64 left</h1>
+                <p>Mint will end at 64 remaining</p>
               </MintContainer>
 
             </>
